@@ -1,0 +1,1 @@
+gcc ../*.c main.c -g3 -o test
